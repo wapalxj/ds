@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfe9dfbc-00b9-405a-8c2e-9065e57d8e5f" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1foLDfSFYVVfQ5G6Hf31rW3swZF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="LinkedHash&#9;PSI&#9;JAVA://java.util.LinkedHashMap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="settings.editor.splitter.proportion" value="0.22629969" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="chapter_2_time_complexity.testComplexity" />
+      <recent name="chapter_8_minimum_span_tree" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\GIT\datastructure\datastructure_algorithm\src\byd" />
+      <recent name="G:\GIT\datastructure\leetcode_algorithm\src\chapter_4_find\C4_4_find_table" />
+      <recent name="G:\GIT\datastructure\leetcode_algorithm\src\chapter_4_find\C4_1_set" />
+      <recent name="G:\GIT\datastructure\leetcode_algorithm\src\chapter_3_array\C3_6_TwoSum" />
+      <recent name="G:\GIT\datastructure\leetcode_algorithm\src\chapter_3_array\C3_5_Sort_Colors\practice" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lb" />
+      <recent name="chapter_5_linkedlist" />
+      <recent name="chapter_5_linkedlist.C5_6_Remove_Nth_Node_Form_End_of_List" />
+      <recent name="C3_" />
+      <recent name="chapter_5_linkedlist.C5_3_dummyhead.practice" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\GIT\datastructure\datasctructure1\src" />
+      <recent name="G:\GIT\datastructure\datasctructure1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MyEnum">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="HeapSort1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4_heap.HeapSort1" />
+      <module name="datastructure_algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter4_heap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeapSort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4_heap.HeapSort2" />
+      <module name="datastructure_algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter4_heap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode_61_Rotate_list$Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_5_linkedlist.C5_6_Remove_Nth_Node_Form_End_of_List.LeetCode_61_Rotate_list$Solution" />
+      <module name="leetcode_algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter_5_linkedlist.C5_6_Remove_Nth_Node_Form_End_of_List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c2_linear.LinearSearch" />
+      <module name="datastructure_system" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c2_linear.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lb.MyEnum" />
+      <module name="lib" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="datastructure1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LeetCode_61_Rotate_list$Solution" />
+      <item itemvalue="Application.HeapSort1" />
+      <item itemvalue="Application.HeapSort2" />
+      <item itemvalue="Application.LinearSearch" />
+      <item itemvalue="Application.MyEnum" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyEnum" />
+        <item itemvalue="Application.LinearSearch" />
+        <item itemvalue="Application.HeapSort2" />
+        <item itemvalue="Application.HeapSort1" />
+        <item itemvalue="Application.LeetCode_61_Rotate_list$Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfe9dfbc-00b9-405a-8c2e-9065e57d8e5f" name="Default" comment="" />
+      <created>1527516205469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527516205469</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="175" key="#HTTP_Proxy" timestamp="1596882867080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="515" y="175" key="#HTTP_Proxy/0.0.1920.1040@0.0.1920.1040" timestamp="1596882867080" />
+    <state x="837" y="181" key="#Project_Structure" timestamp="1596886502540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="837" y="181" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1596886502540" />
+    <state x="1157" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1596881120482">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1157" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1596881120482" />
+    <state x="772" y="343" key="FileChooserDialogImpl" timestamp="1603532721382">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="772" y="343" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603532721382" />
+    <state width="1877" height="858" key="GridCell.Tab.0.bottom" timestamp="1600444590259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="858" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600444590259" />
+    <state width="1877" height="858" key="GridCell.Tab.0.center" timestamp="1600444590258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="858" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600444590258" />
+    <state width="1877" height="858" key="GridCell.Tab.0.left" timestamp="1600444590258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="858" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600444590258" />
+    <state width="1877" height="858" key="GridCell.Tab.0.right" timestamp="1600444590258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="858" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600444590258" />
+    <state x="651" y="178" key="SettingsEditor" timestamp="1596883001471">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="651" y="178" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596883001471" />
+    <state x="977" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1603532631104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="977" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603532631104" />
+    <state x="949" y="123" width="971" height="801" key="find.popup" timestamp="1596886329802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="949" y="123" width="971" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596886329802" />
+    <state x="367" y="190" key="new project wizard" timestamp="1603533424881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="367" y="190" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1603533424881" />
+    <state x="1032" y="244" key="run.anything.popup" timestamp="1596879670066">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596879670066" />
+    <state x="959" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1596886267338">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="959" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596886267338" />
+  </component>
+</project>

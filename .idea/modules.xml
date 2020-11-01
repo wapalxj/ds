@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/datastructure.iml" filepath="$PROJECT_DIR$/datastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datasctructure1/datastructure1.iml" filepath="$PROJECT_DIR$/datasctructure1/datastructure1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datastructure_algorithm/datastructure_algorithm.iml" filepath="$PROJECT_DIR$/datastructure_algorithm/datastructure_algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datastructure_system/datastructure_system.iml" filepath="$PROJECT_DIR$/datastructure_system/datastructure_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hm/hm.iml" filepath="$PROJECT_DIR$/hm/hm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode_algorithm/leetcode_algorithm.iml" filepath="$PROJECT_DIR$/leetcode_algorithm/leetcode_algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offer/offer.iml" filepath="$PROJECT_DIR$/offer/offer.iml" />
+    </modules>
+  </component>
+</project>
