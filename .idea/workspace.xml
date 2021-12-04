@@ -1,7 +1,229 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfe9dfbc-00b9-405a-8c2e-9065e57d8e5f" name="Default" comment="" />
+    <list default="true" id="bfe9dfbc-00b9-405a-8c2e-9065e57d8e5f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter9_Segment_tree/Merger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_5_binary_search/asdsad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_3_array/C3_5_Sort_Colors/practice/p1_LeetCode88_Merger_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_3_array/C3_5_Sort_Colors/practice/p2_LeetCode215_find_Kth_element_in_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_1_set_map/practice/p1_LeetCode242_Valid_Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_1_set_map/practice/p2_LeetCode202_happy_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_1_set_map/practice/p2_LeetCode205_isomorphic_strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_1_set_map/practice/p2_LeetCode290_word_pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_4_find_table/practice/p1_LeetCode15_3_sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_4_find_table/practice/p2_LeetCode16_3_sum_closest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_4_find_table/practice/p2_LeetCode18_4_sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_5_find_table2/practice/p1_LeetCode_49_Group_Anagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_6_findt_able3/parctice/p1_LeetCode_149_Max_Points_on_a_Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_7_findTable_MoveWindow/practice/p1_LeetCode_217_Contains_duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_7_binaryTree/C7_3_end_condition_of_recursion/LeetCode_112_Path_sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasctructure1/src/chapter8_heap/PriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/datasctructure1/src/chapter8_heap/PriorityQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasctructure1/src/leetCode/chapter_8_heap/LeetCode_347_Top_K_Frequent_Elements.java" beforeDir="false" afterPath="$PROJECT_DIR$/datasctructure1/src/leetCode/chapter_8_heap/LeetCode_347_Top_K_Frequent_Elements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/Combination.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/Combination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/Fibonacci2.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/Fibonacci2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/ReverseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/TestPrintStars.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/TestPrintStars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/leetCode/LeetCode1_move_zero.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/leetCode/LeetCode1_move_zero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/TestScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/TestScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/datastructure1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/datastructure1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/a-tale-of-two-cities.txt" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/a-tale-of-two-cities.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter10_trie/TestTrie_Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter10_trie/TestTrie_Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter10_trie/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter10_trie/Trie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter11_union_find_sets/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter11_union_find_sets/UnionFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter11_union_find_sets/UnionFind1.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter11_union_find_sets/UnionFind1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter12_AVL/AVLMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter12_AVL/AVLMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter12_AVL/AVLSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter12_AVL/AVLSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter12_AVL/AVLTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter12_AVL/AVLTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter12_AVL/AVLTree2.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter12_AVL/AVLTree2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter12_AVL/BST2.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter12_AVL/BST2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter12_AVL/TestAVL_BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter12_AVL/TestAVL_BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter14_hash/HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter14_hash/HashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter14_hash/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter14_hash/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter14_hash/UseJavaHashCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter14_hash/UseJavaHashCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter1_array/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter1_array/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter1_array/C2_1_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter1_array/C2_1_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter1_array/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter1_array/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter2_stack/TestQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter2_stack/TestQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter2_stack/queue/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter2_stack/queue/ArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter2_stack/queue/LoopQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter2_stack/queue/LoopQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter2_stack/queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter2_stack/queue/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter2_stack/stack/ArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter2_stack/stack/ArrayStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter2_stack/stack/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter2_stack/stack/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter2_stack/stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter2_stack/stack/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter3_linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter3_linkedlist/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter3_linkedlist/LinkedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter3_linkedlist/LinkedQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter3_linkedlist/LinkedStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter3_linkedlist/LinkedStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter3_linkedlist/TestQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter3_linkedlist/TestQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter3_linkedlist/TestStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter3_linkedlist/TestStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter4_linkedlist_recursion/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter4_linkedlist_recursion/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter6_binary_search_tree/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter6_binary_search_tree/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter7_set_and_map/map/BSTMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter7_set_and_map/map/BSTMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter7_set_and_map/map/LinkedListMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter7_set_and_map/map/LinkedListMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter7_set_and_map/map/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter7_set_and_map/map/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter7_set_and_map/map/TestJDK.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter7_set_and_map/map/TestJDK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter7_set_and_map/map/TestMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter7_set_and_map/map/TestMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter7_set_and_map/set/BSTSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter7_set_and_map/set/BSTSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter7_set_and_map/set/FileOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter7_set_and_map/set/FileOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter7_set_and_map/set/LinkedListSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter7_set_and_map/set/LinkedListSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter7_set_and_map/set/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter7_set_and_map/set/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter7_set_and_map/set/Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter7_set_and_map/set/Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter7_set_and_map/set/TestSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter7_set_and_map/set/TestSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter8_heap/MaxHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter8_heap/MaxHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter8_heap/PriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter8_heap/PriorityQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter8_heap/TestHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter8_heap/TestHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter9_Segment_tree/Merger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/chapter9_Segment_tree/SegementTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/chapter9_Segment_tree/SegementTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter4_linkedlist/LeetCode_203.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter4_linkedlist/LeetCode_203.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter_10_trie/L211_WordDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter_10_trie/L211_WordDictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter_10_trie/L677_MapSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter_10_trie/L677_MapSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter_14_hash/L387_First_Unique_Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter_14_hash/L387_First_Unique_Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter_7_set_map/LeetCode_349_Intersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter_7_set_map/LeetCode_349_Intersection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter_7_set_map/LeetCode_350_Intersection2.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter_7_set_map/LeetCode_350_Intersection2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter_7_set_map/LeetCode_804_set.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter_7_set_map/LeetCode_804_set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter_8_heap/LeetCode_347_Top_K_Frequent_Elements.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter_8_heap/LeetCode_347_Top_K_Frequent_Elements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter_8_heap/Top_K_num.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter_8_heap/Top_K_num.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter_9_segmentTree/L303_NumArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter_9_segmentTree/L303_NumArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter_9_segmentTree/L303_NumArray2.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter_9_segmentTree/L303_NumArray2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter_9_segmentTree/L307_NumArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter_9_segmentTree/L307_NumArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter_9_segmentTree/L307_NumArray2.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/leetCode/chapter_9_segmentTree/L307_NumArray2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datasctructure1/src/pride-and-prejudice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datasctructure1/src/pride-and-prejudice.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/datastructure_algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/datastructure_algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter2_sort_basic/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter2_sort_basic/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter2_sort_basic/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter2_sort_basic/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter2_sort_basic/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter2_sort_basic/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter2_sort_basic/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter2_sort_basic/ShellSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter2_sort_basic/SortTestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter2_sort_basic/SortTestHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter2_sort_basic/TestSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter2_sort_basic/TestSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter3_sort_advance/TestSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter3_sort_advance/TestSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter3_sort_advance/merge_sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter3_sort_advance/merge_sort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter3_sort_advance/merge_sort/MergeSortBU.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter3_sort_advance/merge_sort/MergeSortBU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter3_sort_advance/more/InversionCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter3_sort_advance/more/InversionCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter3_sort_advance/more/Selection.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter3_sort_advance/more/Selection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter3_sort_advance/quick_sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter3_sort_advance/quick_sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter3_sort_advance/quick_sort/QuickSort3Ways.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter3_sort_advance/quick_sort/QuickSort3Ways.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter4_heap/HeapSort1.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter4_heap/HeapSort1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter4_heap/HeapSort2.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter4_heap/HeapSort2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter4_heap/HeapSort3.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter4_heap/HeapSort3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter4_heap/MaxHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter4_heap/MaxHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter4_heap/TestSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter4_heap/TestSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_5_binary_search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_5_binary_search/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_5_binary_search/asdsad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_7_graph/Components.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_7_graph/Components.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_7_graph/DenseGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_7_graph/DenseGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_7_graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_7_graph/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_7_graph/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_7_graph/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_7_graph/Path.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_7_graph/Path.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_7_graph/ReadGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_7_graph/ReadGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_7_graph/ShortestPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_7_graph/ShortestPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_7_graph/SparseGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_7_graph/SparseGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_7_graph/TestGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_7_graph/TestGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_7_graph/testG" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_7_graph/testG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_7_graph/testG1" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_7_graph/testG1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_7_graph/testG2" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_7_graph/testG2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_8_minimum_span_tree/DenseWeightedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_8_minimum_span_tree/DenseWeightedGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_8_minimum_span_tree/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_8_minimum_span_tree/Edge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_8_minimum_span_tree/ReadWeightedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_8_minimum_span_tree/ReadWeightedGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_8_minimum_span_tree/SparseWeightedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_8_minimum_span_tree/SparseWeightedGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_8_minimum_span_tree/WeightedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_8_minimum_span_tree/WeightedGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_8_minimum_span_tree/testG1" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/datastructure_algorithm/src/chapter_8_minimum_span_tree/testG1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/leetcode_algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/leetcode_algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_2_time_complexity/TestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_2_time_complexity/TestString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_2_time_complexity/TimeComplexity.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_2_time_complexity/TimeComplexity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_2_time_complexity/testComplexity/MyAlgorithmTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_2_time_complexity/testComplexity/MyAlgorithmTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_2_time_complexity/testComplexity/MyUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_2_time_complexity/testComplexity/MyUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_2_time_complexity/testComplexity/TestNlogN.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_2_time_complexity/testComplexity/TestNlogN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_2_time_complexity/testComplexity/TestOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_2_time_complexity/testComplexity/TestOn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_2_time_complexity/testComplexity/TestOn2.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_2_time_complexity/testComplexity/TestOn2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_2_time_complexity/testComplexity/TestlogN.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_2_time_complexity/testComplexity/TestlogN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_2_time_complexity/testRecursionComplexity/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_2_time_complexity/testRecursionComplexity/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_2_time_complexity/testRecursionComplexity/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_2_time_complexity/testRecursionComplexity/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_3_array/C3_3_array/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_3_array/C3_3_array/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_3_array/C3_3_array/practice/LeetCode283_Move_Zeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_3_array/C3_3_array/practice/LeetCode283_Move_Zeroes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_3_array/C3_3_array/practice/p1_LeetCode27_Remove_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_3_array/C3_3_array/practice/p1_LeetCode27_Remove_Element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_3_array/C3_3_array/practice/p2_LeetCode26_Remove_Duplicates_from_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_3_array/C3_3_array/practice/p2_LeetCode26_Remove_Duplicates_from_Sorted_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_3_array/C3_3_array/practice/p3_LeetCode80_Remove_Duplicates_from_Sorted_Array2.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_3_array/C3_3_array/practice/p3_LeetCode80_Remove_Duplicates_from_Sorted_Array2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_3_array/C3_5_Sort_Colors/LeetCode75_Sort_Colors.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_3_array/C3_5_Sort_Colors/LeetCode75_Sort_Colors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_3_array/C3_5_Sort_Colors/practice/p1_LeetCode88_Merger_Sorted_Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_3_array/C3_5_Sort_Colors/practice/p2_LeetCode215_find_Kth_element_in_array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_3_array/C3_6_TwoSum/LeetCode_167_TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_3_array/C3_6_TwoSum/LeetCode_167_TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_3_array/C3_6_TwoSum/practice/p1_LeetCode125_Valid_Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_3_array/C3_6_TwoSum/practice/p1_LeetCode125_Valid_Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_3_array/C3_6_TwoSum/practice/p2_LeetCode344_reverse_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_3_array/C3_6_TwoSum/practice/p2_LeetCode344_reverse_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_3_array/C3_6_TwoSum/practice/p3_LeetCode11_Container_With_Most_Water.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_3_array/C3_6_TwoSum/practice/p3_LeetCode11_Container_With_Most_Water.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_1_set_map/LeetCode_349_intersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_1_set_map/LeetCode_349_intersection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_1_set_map/LeetCode_350_intersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_1_set_map/LeetCode_350_intersection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_1_set_map/practice/p1_LeetCode242_Valid_Anagram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_1_set_map/practice/p2_LeetCode202_happy_number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_1_set_map/practice/p2_LeetCode205_isomorphic_strings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_1_set_map/practice/p2_LeetCode290_word_pattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_4_find_table/LeetCode_1_two_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_4_find_table/LeetCode_1_two_sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_4_find_table/practice/p1_LeetCode15_3_sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_4_find_table/practice/p2_LeetCode16_3_sum_closest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_4_find_table/practice/p2_LeetCode18_4_sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_5_find_table2/LeetCode_454_two_sum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_5_find_table2/LeetCode_454_two_sum2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_5_find_table2/practice/p1_LeetCode_49_Group_Anagrams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_6_findt_able3/LeetCode_447_Number_of_Boomerangs.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_6_findt_able3/LeetCode_447_Number_of_Boomerangs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_6_findt_able3/parctice/p1_LeetCode_149_Max_Points_on_a_Line.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_7_findTable_MoveWindow/LeetCode_219_Contains_Duplicate2.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_7_findTable_MoveWindow/LeetCode_219_Contains_Duplicate2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_7_findTable_MoveWindow/practice/p1_LeetCode_217_Contains_duplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_8_binarysearch_sort/LeetCode_220_Contains_Duplicate3.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_4_find/C4_8_binarysearch_sort/LeetCode_220_Contains_Duplicate3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_5_linkedlist/C5_1_linkedlist/LeetCode_206_reverse_linkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_5_linkedlist/C5_1_linkedlist/LeetCode_206_reverse_linkedlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_5_linkedlist/C5_1_linkedlist/practice/LeetCode_92_reverse_linkedlist2.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_5_linkedlist/C5_1_linkedlist/practice/LeetCode_92_reverse_linkedlist2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_5_linkedlist/C5_3_dummyhead/LeetCode_203_remove_element.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_5_linkedlist/C5_3_dummyhead/LeetCode_203_remove_element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_5_linkedlist/C5_4/LeetCode_24_Swap_Nodes_in_Pairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_5_linkedlist/C5_4/LeetCode_24_Swap_Nodes_in_Pairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_5_linkedlist/C5_5/LeetCode_24_Delete_Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_5_linkedlist/C5_5/LeetCode_24_Delete_Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_5_linkedlist/C5_6_Remove_Nth_Node_Form_End_of_List/LeetCode_19_Remove_Nth_Node_Form_End_of_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_5_linkedlist/C5_6_Remove_Nth_Node_Form_End_of_List/LeetCode_19_Remove_Nth_Node_Form_End_of_List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_5_linkedlist/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_5_linkedlist/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_6_stack_queue/C6_1_stack/LeetCode_20_Valid_Parentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_6_stack_queue/C6_1_stack/LeetCode_20_Valid_Parentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_6_stack_queue/C6_3_stack_recursion/LeetCode_144_Binary_Tree_Preorder_Traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_6_stack_queue/C6_3_stack_recursion/LeetCode_144_Binary_Tree_Preorder_Traversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_6_stack_queue/C6_4_queue/LeetCode_102_Binary_Tree_Level_Order_Traversa.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_6_stack_queue/C6_4_queue/LeetCode_102_Binary_Tree_Level_Order_Traversa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_6_stack_queue/C6_6_priorityQueue/LeetCode_347_Top_K_fre.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_6_stack_queue/C6_6_priorityQueue/LeetCode_347_Top_K_fre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_6_stack_queue/C6_6_priorityQueue/TestPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_6_stack_queue/C6_6_priorityQueue/TestPriorityQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_7_binaryTree/C7_1_recursion/LeetCode_104_max_depth_BT.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_7_binaryTree/C7_1_recursion/LeetCode_104_max_depth_BT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_7_binaryTree/C7_2_invert_Binary_Tree/LeetCode_226.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_7_binaryTree/C7_2_invert_Binary_Tree/LeetCode_226.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/liuyubobobo/leetcode_algorithm/src/chapter_7_binaryTree/C7_3_end_condition_of_recursion/LeetCode_112_Path_sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure_algorithm/src/byd/algorithms/lunban.jar" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure_algorithm/src/algorithms/lunban.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter2_sort_basic/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter2_sort_basic/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter2_sort_basic/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter2_sort_basic/ShellSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter2_sort_basic/SortTestHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter2_sort_basic/TestSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter3_sort_advance/TestSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter3_sort_advance/merge_sort/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter3_sort_advance/merge_sort/MergeSortBU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter3_sort_advance/more/InversionCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter3_sort_advance/more/Selection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter3_sort_advance/quick_sort/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter3_sort_advance/quick_sort/QuickSort3Ways.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter4_heap/HeapSort1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter4_heap/HeapSort2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter4_heap/HeapSort3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter4_heap/MaxHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter4_heap/TestSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter_5_binary_search/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter_5_binary_search/findNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter_7_graph/Components.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter_7_graph/DenseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter_7_graph/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter_7_graph/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter_7_graph/Path.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter_7_graph/ReadGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter_7_graph/ShortestPath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter_7_graph/SparseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter_7_graph/TestGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter_8_minimum_span_tree/DenseWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter_8_minimum_span_tree/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter_8_minimum_span_tree/ReadWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter_8_minimum_span_tree/SparseWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/datastructure_algorithm/chapter_8_minimum_span_tree/WeightedGraph.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,14 +238,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1foLDfSFYVVfQ5G6Hf31rW3swZF" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="LinkedHash&#9;PSI&#9;JAVA://java.util.LinkedHashMap" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -55,17 +287,17 @@
       <recent name="G:\GIT\datastructure\datasctructure1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyEnum">
+  <component name="RunManager" selected="Application.C2_1_array">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="HeapSort1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4_heap.HeapSort1" />
-      <module name="datastructure_algorithm" />
+    <configuration name="C2_1_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1_array.C2_1_array" />
+      <module name="datastructure1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter4_heap.*" />
+          <option name="PATTERN" value="chapter1_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,20 +312,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapter4_heap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCode_61_Rotate_list$Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_5_linkedlist.C5_6_Remove_Nth_Node_Form_End_of_List.LeetCode_61_Rotate_list$Solution" />
-      <module name="leetcode_algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter_5_linkedlist.C5_6_Remove_Nth_Node_Form_End_of_List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,6 +347,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3_sort_advance.quick_sort.QuickSort" />
+      <module name="datastructure_algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter3_sort_advance.quick_sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -142,15 +374,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+    <configuration default="true" type="JetRunConfigurationType">
       <module name="datastructure1" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -174,19 +399,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LeetCode_61_Rotate_list$Solution" />
-      <item itemvalue="Application.HeapSort1" />
       <item itemvalue="Application.HeapSort2" />
       <item itemvalue="Application.LinearSearch" />
       <item itemvalue="Application.MyEnum" />
+      <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.C2_1_array" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C2_1_array" />
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.MyEnum" />
         <item itemvalue="Application.LinearSearch" />
         <item itemvalue="Application.HeapSort2" />
-        <item itemvalue="Application.HeapSort1" />
-        <item itemvalue="Application.LeetCode_61_Rotate_list$Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -211,63 +436,5 @@
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="515" y="175" key="#HTTP_Proxy" timestamp="1596882867080">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="515" y="175" key="#HTTP_Proxy/0.0.1920.1040@0.0.1920.1040" timestamp="1596882867080" />
-    <state x="837" y="181" key="#Project_Structure" timestamp="1596886502540">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="837" y="181" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1596886502540" />
-    <state x="1157" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1596881120482">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1157" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1596881120482" />
-    <state x="772" y="343" key="FileChooserDialogImpl" timestamp="1603532721382">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="772" y="343" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603532721382" />
-    <state width="1877" height="858" key="GridCell.Tab.0.bottom" timestamp="1600444590259">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="858" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600444590259" />
-    <state width="1877" height="858" key="GridCell.Tab.0.center" timestamp="1600444590258">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="858" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600444590258" />
-    <state width="1877" height="858" key="GridCell.Tab.0.left" timestamp="1600444590258">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="858" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600444590258" />
-    <state width="1877" height="858" key="GridCell.Tab.0.right" timestamp="1600444590258">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="858" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600444590258" />
-    <state x="651" y="178" key="SettingsEditor" timestamp="1596883001471">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="651" y="178" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596883001471" />
-    <state x="977" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1603532631104">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="977" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603532631104" />
-    <state x="949" y="123" width="971" height="801" key="find.popup" timestamp="1596886329802">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="949" y="123" width="971" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596886329802" />
-    <state x="367" y="190" key="new project wizard" timestamp="1603533424881">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="367" y="190" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1603533424881" />
-    <state x="1032" y="244" key="run.anything.popup" timestamp="1596879670066">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1032" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596879670066" />
-    <state x="959" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1596886267338">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="959" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596886267338" />
   </component>
 </project>

@@ -1,7 +1,6 @@
 package chapter8_heap;
 
 import chapter2_stack.queue.Queue;
-import org.apache.log4j.Priority;
 
 /**
  * 基于最大堆的优先队列

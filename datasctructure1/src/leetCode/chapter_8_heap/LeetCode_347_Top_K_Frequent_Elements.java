@@ -1,7 +1,7 @@
 package leetCode.chapter_8_heap;
 
 import chapter8_heap.PriorityQueue;
-import org.jetbrains.annotations.NotNull;
+import com.sun.istack.internal.NotNull;
 
 import java.util.*;
 
