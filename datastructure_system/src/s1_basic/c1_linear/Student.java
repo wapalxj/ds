@@ -1,4 +1,4 @@
-package c2_linear;
+package s1_basic.c1_linear;
 
 import java.util.Objects;
 
