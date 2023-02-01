@@ -1,6 +1,5 @@
 package chapter_6_stack_queue.C6_6_priorityQueue;
 
-import org.apache.log4j.Priority;
 
 import java.util.*;
 

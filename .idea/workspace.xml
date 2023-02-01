@@ -287,7 +287,7 @@
       <recent name="G:\GIT\datastructure\datasctructure1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C2_1_array">
+  <component name="RunManager" selected="Application.TestString">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -298,20 +298,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapter1_array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HeapSort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4_heap.HeapSort2" />
-      <module name="datastructure_algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter4_heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -361,6 +347,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_2_time_complexity.TestString" />
+      <module name="leetcode_algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter_2_time_complexity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -370,12 +370,6 @@
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="datastructure1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -399,19 +393,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HeapSort2" />
       <item itemvalue="Application.LinearSearch" />
       <item itemvalue="Application.MyEnum" />
       <item itemvalue="Application.QuickSort" />
       <item itemvalue="Application.C2_1_array" />
+      <item itemvalue="Application.TestString" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestString" />
         <item itemvalue="Application.C2_1_array" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.MyEnum" />
         <item itemvalue="Application.LinearSearch" />
-        <item itemvalue="Application.HeapSort2" />
       </list>
     </recent_temporary>
   </component>
