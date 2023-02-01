@@ -49,6 +49,8 @@ public class InsertionSort {
             for (int j = i; j >= 1; j--) {
                 if (arr[j].compareTo(arr[j - 1]) < 0) {
                     SwapUtils.swap(arr, j, j - 1);
+                } else {
+                    break;
                 }
             }
         }
@@ -66,9 +68,18 @@ public class InsertionSort {
             for (int j = i; j < arr.length - 1; j++) {
                 if (arr[j] > arr[j + 1]) {
                     SwapUtils.swap(arr, j, j + 1);
+                } else {
+                    break;
                 }
             }
         }
+    }
+
+    /**
+     * 优化 减少交换次数
+     */
+    public static void insertionSort3(Integer[] arr) {
+
     }
 
 
