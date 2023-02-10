@@ -7,6 +7,10 @@ import lb.utils.SwapUtils;
 
 /**
  * InsertionSort
+ * O(n*n)
+ *
+ * 对于有序数组，O(n)
+ *
  */
 public class InsertionSort {
     private InsertionSort() {
@@ -25,12 +29,12 @@ public class InsertionSort {
 //            });
 //        }
 
-        Integer[] arr = Generator.generateRandomArray(10, 1, 100);
+        Integer[] arr = Generator.generateRandomArray(100, 1, 1000);
         PrintUtils.printArr(arr);
         SortTest.sortTest(new SortTest.Sortable<Integer>() {
             @Override
             public Integer[] sort() {
-                insertionSort2(arr);
+                insertionSort4(arr);
 
                 return arr;
             }
@@ -42,7 +46,10 @@ public class InsertionSort {
      * <p>
      * O(n*n)
      * 从左往右排
-     * 循环不变量 a(i..n]未排序
+     * 循环不变量 a[i..n)未排序
+     *
+     *
+     * 对于有序数组，O(n)
      */
     public static void insertionSort(Integer[] arr) {
         for (int i = 0; i < arr.length; i++) {
@@ -76,10 +83,43 @@ public class InsertionSort {
     }
 
     /**
-     * 优化 减少交换次数
+     * 插入排序优化 减少交换次数 从左往右 a[0..i)已排好序
+     * 7 13 3 18 8 19
+     * 3 7 13 18 8 19
      */
     public static void insertionSort3(Integer[] arr) {
+        for (int i = 0; i < arr.length; i++) {
+            int min = arr[i];
+            int j = i;
+            for (; j >= 1; j--) {
+                if (min < arr[j - 1]) {
+                    arr[j] = arr[j - 1];
+                } else {
+                    break;
+                }
+            }
+            arr[j] = min;
+        }
+    }
 
+    /**
+     * 插入排序优化 减少交换次数 从右往左 a[i..n)已排好序
+     * 7 13 3 18 8 19
+     * 7 13 3 8 18 19
+     */
+    public static void insertionSort4(Integer[] arr) {
+        for (int i = arr.length - 1; i >= 0; i--) {
+            int max = arr[i];
+            int j = i;
+            for (; j < arr.length - 1; j++) {
+                if (max > arr[j + 1]) {
+                    arr[j] = arr[j + 1];
+                } else {
+                    break;
+                }
+            }
+            arr[j] = max;
+        }
     }
 
 
