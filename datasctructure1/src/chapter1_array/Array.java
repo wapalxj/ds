@@ -1,7 +1,5 @@
 package chapter1_array;
 
-import java.util.ArrayList;
-
 public class Array<E> {
     private E[] data;
     private int size;

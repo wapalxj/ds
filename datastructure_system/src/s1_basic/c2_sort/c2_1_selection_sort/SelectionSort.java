@@ -1,4 +1,4 @@
-package s1_basic.c2_sort.c2_1_selection_sort;
+package datastructure_system.src.s1_basic.c2_sort.c2_1_selection_sort;
 
 import lb.Generator;
 import lb.utils.PrintUtils;

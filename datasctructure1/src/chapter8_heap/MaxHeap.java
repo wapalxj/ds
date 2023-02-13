@@ -1,9 +1,7 @@
 package chapter8_heap;
 
 import chapter1_array.Array;
-import com.sun.org.apache.regexp.internal.RE;
 
-import java.util.PriorityQueue;
 import java.util.Random;
 
 public class MaxHeap<E extends Comparable> {
