@@ -69,6 +69,12 @@ public class LoopQueue<E> implements Queue<E> {
             //第1种遍历方式
             newData[i] = data[(front + i) % data.length];
         }
+
+//        int j = 0;
+//        for (int i = front; i != tail; i = (i + 1) % data.length, j++) {
+//            //第2种遍历方式
+//            newData[j] = data[i];
+//        }
         data = newData;
         front = 0;
         tail = size;
@@ -87,6 +93,14 @@ public class LoopQueue<E> implements Queue<E> {
                 res.append(",");
             }
         }
+
+//        for (int i = 0; i < size; i++) {
+//            //第1种遍历方式
+//            res.append(data[(front + i) % data.length]);
+//            if ((front + i + 1) % data.length != tail) {
+//                res.append(",");
+//            }
+//        }
         res.append("] tail");
         return res.toString();
     }
@@ -94,7 +108,7 @@ public class LoopQueue<E> implements Queue<E> {
 
     public static void main(String[] args) {
         LoopQueue<Integer> queue=new LoopQueue<>();
-        for (int i = 0; i < 100000; i++) {
+        for (int i = 0; i < 10; i++) {
             queue.enqueue(i);
             System.out.println(queue);
             if (i% 3 == 2) {
