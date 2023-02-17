@@ -41,18 +41,4 @@ public class TestQueue {
         System.out.println("LoopQueue---->"+time2);
     }
 
-
-    static int[] array=new int[100];
-    static int header=0;
-    public static void enqueue(int element) {
-        for (int i = 0; i < array.length; i++) {
-
-        }
-    }
-
-    public static void dequeue(int element) {
-        for (int i = 0; i < array.length; i++) {
-
-        }
-    }
 }

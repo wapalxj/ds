@@ -200,7 +200,7 @@ public class LinkedList<E> {
             linkedList.addFirst(i);
             System.out.println(linkedList);
         }
-        linkedList.add2(666,2);
+        linkedList.add(666,2);
         System.out.println(linkedList);
 
         linkedList.remove(2);
